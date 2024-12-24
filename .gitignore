@@ -1,3 +1,11 @@
+#.vscode
+#.idea
+fprime-venv/
+build
+**/logs
+**/build-artifacts
+**/build-fprime-*
+
 # Prerequisites
 *.d
 
